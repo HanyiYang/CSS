@@ -29,7 +29,6 @@
 	color:white;
 	padding-top:10px;
 	padding-right:10px;
-	padding-bottom: 10px;
 	padding-left:10px;
     }
 }
@@ -58,9 +57,7 @@
 	color:white;
     padding-top:10px;
 	padding-right:10px;
-	padding-bottom: 10px;
 	padding-left:10px;
-    }
     }
 }
 
@@ -77,14 +74,12 @@
     }
     .section{
 	position: absolute;
-	background-color: red;
+	background-color: blue;
 	top:0px;
 	right:0px;
 	color:white;
 	padding-top:10px;
 	padding-right:10px;
-	padding-bottom: 10px;
 	padding-left:10px;
-    }
     }
 }
